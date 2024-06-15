@@ -11,3 +11,5 @@ Kurulum:
 １ RenaRACdisabler.exe yi aç ve entera basılı tut.
 ２ Dll i Oyuna Manuel Bir İnjector Kullanarak İnjectle.
 ３ İyi Oyunlar.
+
+☑️ https://discord.gg/u4Kx7hJW
