@@ -14,4 +14,4 @@ Kurulum:
 ２ Dll i Oyuna Manuel Bir İnjector Kullanarak İnjectle.
 ３ İyi Oyunlar.
 
-☑️ https://discord.gg/u4Kx7hJW
+☑️ https://discord.gg/pXeGrUAgch
